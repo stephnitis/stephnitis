@@ -8,10 +8,10 @@
 
 Having fun on this tech journey and working towards accessible software and reaching the next billion users
 
-#### 💾 Skills: 
+### 💾 Skills: 
 
 - ⚛️ REACT 
-- ` { } ` JS
+- `{}` JS
 - `</>` HTML / CSS
 
 ![Stephnitis GitHub stats](https://github-readme-stats.vercel.app/api?username=stephnitis&show_icons=true&theme=nightowl)
@@ -20,6 +20,3 @@ Having fun on this tech journey and working towards accessible software and reac
 
 #### Pokedex: Just for fun ...
 <img src="https://github.com/stephnitis/stephnitis/blob/main/Pokedex_demo-1_1__1__AdobeExpress.gif" width="300">
-
-
-⏞
