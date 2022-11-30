@@ -5,7 +5,7 @@
 
 ## I'm Stephanie Hill
 
- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephnihill/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stephnitis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/stephnitis) 
+ [<img src='https://github.com/stephnitis/stephnitis/blob/main/544477_linkedin-linkedin-logo-bw-png-transparent-png.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephnihill/)  [<img src='https://github.com/stephnitis/stephnitis/blob/main/_24_instagram-icon-white-png_dinner-and-a-cruise-experience-instagram-icon-white-transparent-back--free-transparent-png-clipart-images-download.png' alt='instagram' height='40'>](https://www.instagram.com/stephnitis/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/stephnitis) 
 
 ### Lifelong Adventurer 👉 Full Stack JavaScript Dev
 
