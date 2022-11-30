@@ -2,7 +2,7 @@
 
 # Hello 🌎
 
-## Stephanie Here
+## I'm Stephanie Hill
 
 #### Lifelong Adventurer 👉 Full-Stack JavaScript Dev
 
