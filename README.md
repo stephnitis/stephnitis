@@ -1,4 +1,5 @@
-![Full-Stack JavaScript Dev](https://github.com/stephnitis/stephnitis/blob/main/pixelasciifade.gif)
+![Steph pup mountain ascii to pixel](https://github.com/stephnitis/stephnitis/blob/main/bw2colascii2pix.gif)
+
 
 # Hello 🌎
 
