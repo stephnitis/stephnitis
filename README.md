@@ -9,9 +9,10 @@
 Having fun on this tech journey and working towards accessible software and reaching the next billion users
 
 #### 💾 Skills: 
-⚛️ REACT 
-` { } ` JS
-`</>` HTML / CSS
+
+- ⚛️ REACT 
+- ` { } ` JS
+- `</>` HTML / CSS
 
 ![Stephnitis GitHub stats](https://github-readme-stats.vercel.app/api?username=stephnitis&show_icons=true&theme=nightowl)
 
