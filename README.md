@@ -1,13 +1,12 @@
-### Hi there 👋, Stephanie Hill
-#### Full-Stack JavaScript Dev
 ![Full-Stack JavaScript Dev](https://github.com/stephnitis/stephnitis/blob/main/pixelasciifade.gif)
 
-Having fun and working on accessible software and reaching the next billion users
+### Hello 🌎 I'm Stephanie Hill
+
+#### Adventurer 👉 Full-Stack JavaScript Dev
+
+Having fun and working for accessible software and reaching the next billion users
 
 Skills: REACT / JS / HTML / CSS
-
-<!-- - 🔭 I’m currently working on this page.  -->
-
 
 ![Stephnitis GitHub stats](https://github-readme-stats.vercel.app/api?username=stephnitis&show_icons=true&theme=nightowl)
 
