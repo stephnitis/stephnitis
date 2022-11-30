@@ -1,7 +1,7 @@
 ### Hi there 👋, Stephanie Hill
-<!-- #### Full-Stack JavaScript Dev
-![Full-Stack JavaScript Dev](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
- -->
+#### Full-Stack JavaScript Dev
+![Full-Stack JavaScript Dev]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/stephnitis/stephnitis/blob/main/pixelasciifade.gif))
+
 Having fun and working on accessible software and reaching the next billion users
 
 Skills: REACT / JS / HTML / CSS
