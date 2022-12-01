@@ -21,5 +21,8 @@ Having fun on this tech journey and working towards accessible software and reac
 
 ### 💾 Projects:
 
+#### Inquirio: An E-Learning Aggregator
+<img src="https://github.com/stephnitis/stephnitis/blob/main/inquirio.gif" width="400">
+
 #### Pokedex: Just for fun ...
 <img src="https://github.com/stephnitis/stephnitis/blob/main/Pokedex_demo-1_1__1__AdobeExpress.gif" width="300">
