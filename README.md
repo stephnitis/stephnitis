@@ -24,5 +24,5 @@ Having fun on this tech journey and working towards accessible software and reac
 #### Inquirio: An E-Learning Aggregator
 <img src="https://github.com/stephnitis/stephnitis/blob/main/inquirio.gif" width="400">
 
-#### Pokedex: Just for fun ...
-<img src="https://github.com/stephnitis/stephnitis/blob/main/Pokedex_demo.gif" width="300">
+<!-- #### Pokedex: Just for fun ...
+<img src="https://github.com/stephnitis/stephnitis/blob/main/Pokedex_demo.gif" width="300"> -->
