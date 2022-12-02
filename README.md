@@ -1,4 +1,4 @@
-![Steph pup mountain ascii to pixel](https://github.com/stephnitis/stephnitis/blob/main/github-banner.png)
+![stephanie hill in keyboard outline](https://github.com/stephnitis/stephnitis/blob/main/github-banner.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stephnihill/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg' alt='codesandbox' height='40'>](https://codesandbox.io/u/stephnitis)  
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/stephnitis/) -->
