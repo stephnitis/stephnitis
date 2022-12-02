@@ -7,7 +7,7 @@
 
 ## I'm Stephanie Hill
 
-### 👉 Full Stack JavaScript Dev
+### 👉  Full Stack JavaScript Dev
 
 Having fun on this tech journey and working towards accessible software and reaching the next billion users
 
